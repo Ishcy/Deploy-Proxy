@@ -2,15 +2,6 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
-
-Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
 
 ## Steps
 
@@ -93,18 +84,16 @@ npm run upgrade
 
 by :
 
-github : [Mnuralim](https://github.com/Mnuralim)
+github : [Ishcy](https://github.com/ishcy)
 
-twitter : @Izzycracker04
+twitter : @Ishly13
 
-telegram : @fitriay19
-
-youtube : https://www.youtube.com/@IzzyTSN
+telegram : @Ish_ly
 
 Ignore this!!!
 
 ```
-SWTRProxy = '0xea65D3f80d2253293a64e2f8DdF4CEC401823053'
-ProxyAdmin = '0x6a0baE5CF96d14e39FA9F5AdB4fadABb55B22E17'
-SWTRImplementation = '0xE4e93a474734E22A4f660EF1fE7aC3fc096E856c'
+SWTRProxy = '0xe4094616723CC13cAbf3BD146A9aed741b0DaDC5'
+ProxyAdmin = '0xAAE2Ed25Ebd98EA93Bd5C01d5CeCb559ac4a0759'
+SWTRImplementation = '0x9a664A6AE6d47Ed748494e75Eccaf3188C544278'
 ```
